@@ -7,11 +7,5 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        //hi
-        // pull test
-        // branch add
-        // b2 test
-        // haha
-        // 슬슬 배고파
     }
 }
