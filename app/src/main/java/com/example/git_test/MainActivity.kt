@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         // branch add
         // b2 test
         // haha
+        // 슬슬 배고파
     }
 }
